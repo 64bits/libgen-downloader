@@ -6,7 +6,7 @@
     "https://libgen.st/",
     "http://libgen.rs/"
   ],
-  "searchReqPattern": "{mirror}search.php?&req={query}&page={pageNumber}&res={pageSize}&sort_mode=ASC",
+  "searchReqPattern": "{mirror}fiction/?q={query}&page={pageNumber}&res={pageSize}&sort_mode=ASC",
   "searchByMD5Pattern": "{mirror}search.php?req={md5}&column=md5",
   "MD5ReqPattern": "{mirror}json.php?ids={id}&fields=md5"
 }
